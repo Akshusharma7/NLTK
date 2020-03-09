@@ -32,6 +32,7 @@ padding_type='post'
 oov_tok = "<OOV>"
 training_size = 20000
 
+
 !wget --no-check-certificate \
     https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json \
     -O /tmp/sarcasm.json
