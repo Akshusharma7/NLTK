@@ -38,6 +38,7 @@ training_size = 20000
     https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json \
     -O /tmp/sarcasm.json
     
+    
 import os 
 print(os.getcwd())
 
