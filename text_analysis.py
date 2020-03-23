@@ -18,3 +18,4 @@ padded = pad_sequences(sequences)
 print(word_index)
 print(sequences)
 print(padded)
+
