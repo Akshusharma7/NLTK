@@ -8,8 +8,6 @@ sentences = [
              'Do you think my dog is amazing?'
 ]
 
-
-
 tokenizer = Tokenizer(num_words=100, oov_token="<OOV>")
 tokenizer.fit_on_texts(sentences)
 word_index = tokenizer.word_index
