@@ -9,7 +9,6 @@ Original file is located at
 
 
 
-
 # Commented out IPython magic to ensure Python compatibility.
 # Run this to ensure TensorFlow 2.x is used
 try:
